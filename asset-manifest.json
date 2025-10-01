@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b518906d.css",
+    "main.js": "/portfolio/static/js/main.0b3451d3.js",
+    "static/media/hardware.jpg": "/portfolio/static/media/hardware.89e33bf8d5f858cf853c.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.d845ee0a4a5d717301bb.pdf",
+    "static/media/agritrade.png": "/portfolio/static/media/agritrade.ea13a2797e5a947265c6.png",
+    "static/media/graduant.png": "/portfolio/static/media/graduant.0e6b92596349dbfe5070.png",
+    "static/media/image.png": "/portfolio/static/media/image.d4760c188beb71911cc9.png",
+    "static/media/leader.png": "/portfolio/static/media/leader.596210510bdb0a16f5b9.png",
+    "static/media/computer.png": "/portfolio/static/media/computer.220253e5d967e4a4cd03.png",
+    "static/media/entre.png": "/portfolio/static/media/entre.c4f40e4be26191cabf2c.png",
+    "static/media/graduation.png": "/portfolio/static/media/graduation.971bc53c9a654289884a.png",
+    "static/media/linkin.png": "/portfolio/static/media/linkin.878ac0424c584fedebf4.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.7514616761eb5b724245.png",
+    "static/media/facebook.png": "/portfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.45032349f15c7e89687c.png",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/portfolio/index.html",
+    "main.b518906d.css.map": "/portfolio/static/css/main.b518906d.css.map",
+    "main.0b3451d3.js.map": "/portfolio/static/js/main.0b3451d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b518906d.css",
+    "static/js/main.0b3451d3.js"
+  ]
+}
