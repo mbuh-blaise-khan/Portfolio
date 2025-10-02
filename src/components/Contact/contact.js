@@ -57,9 +57,9 @@ const Contact = () => {
             <span className='contactDesc'>Please fill out the form below to discuss any work opportunities</span>
 
             <form ref={form} className='contactForm' onSubmit={sendEmail}>
-                <input type='text' className='name' placeholder='Your Name' name='name'/>
-                <input type='email' className='email' placeholder='Your Email' name='email'/>
-                <textarea name='message' rows="5" placeholder='Your Message' className='msg'/>
+                <input type='text' className='name' placeholder='Your Name' name='name' required />
+                <input type='email' className='email' placeholder='Your Email' name='email' required/>
+                <textarea name='message' rows="5" placeholder='Your Message' className='msg' required/>
                 <button type='submit' className='submitBtn' value="send">Submit</button>
             <div className="links">
               <a href="https://www.linkedin.com/in/mbuh-blaise-khan-0637472a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank" rel="noopener noreferrer"><img src={LinkinIcon} alt="LinkinIcon" className="link" /> </a>
