@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b518906d.css",
-    "main.js": "/Portfolio/static/js/main.6743a1fd.js",
+    "main.css": "/Portfolio/static/css/main.eb6fc30b.css",
+    "main.js": "/Portfolio/static/js/main.11d4ac32.js",
     "static/media/hardware.jpg": "/Portfolio/static/media/hardware.89e33bf8d5f858cf853c.jpg",
     "static/media/cv.pdf": "/Portfolio/static/media/cv.d845ee0a4a5d717301bb.pdf",
     "static/media/agritrade.png": "/Portfolio/static/media/agritrade.ea13a2797e5a947265c6.png",
@@ -17,11 +17,11 @@
     "static/media/calculator.png": "/Portfolio/static/media/calculator.45032349f15c7e89687c.png",
     "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/Portfolio/index.html",
-    "main.b518906d.css.map": "/Portfolio/static/css/main.b518906d.css.map",
-    "main.6743a1fd.js.map": "/Portfolio/static/js/main.6743a1fd.js.map"
+    "main.eb6fc30b.css.map": "/Portfolio/static/css/main.eb6fc30b.css.map",
+    "main.11d4ac32.js.map": "/Portfolio/static/js/main.11d4ac32.js.map"
   },
   "entrypoints": [
-    "static/css/main.b518906d.css",
-    "static/js/main.6743a1fd.js"
+    "static/css/main.eb6fc30b.css",
+    "static/js/main.11d4ac32.js"
   ]
 }
