@@ -1,11 +1,11 @@
 #intro {
-    height: calc(100vh -5rem );
+    height: calc(100vh -4rem);
     width: 100vw;
     max-width: 80rem;
     margin: 0 auto;
     overflow: hidden;
     position: relative;
-    font-family: "Times New Roman", Times, serif;
+    font-family: 'Poppins', sans-serif;
 
 }
 
@@ -63,12 +63,25 @@
     height: 1rem;
 }
 
+@media screen and (max-width: 1001px) {
+    .bg{
+        right: 15vw;
+    }
+    .introContent {
+        font-size: 6vw;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+}
+
+
 @media screen and (max-width: 840px) {
     .bg{
         right: -15vw;
     }
     .introContent {
-        font-size: 10vw;
+        font-size: -10vw;
     }
     .hello {
         font-size: 4.5vw;
